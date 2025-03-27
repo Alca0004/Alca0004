@@ -14,7 +14,7 @@ I'm a passionate front-end web developer with a focus on building sleek, modern 
 - Git, GitHub
 
   ## 📞 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/aaronalcala)
+- [LinkedIn](https://www.linkedin.com/in/aaron-alcala-harkness-0b14bb154/)
 - [Email](mailto:alca0004@gmail.com)
 
 Feel free to reach out for collaborations or freelance opportunities!
