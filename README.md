@@ -1,6 +1,8 @@
 ## Hello! I'm Aaron 👋
 
-I'm a passionate front-end web developer with a focus on building sleek, modern websites. I'm currently working on enhancing my skills in JavaScript, HTML, and CSS. I love creating user-friendly experiences and continuously learning new techniques and frameworks. I'm always looking for new challenges and ways to grow as a developer!
+I'm a front-end web developer with a passion for creating clean, minimalist websites that focus on usability and design. Currently, I’m taking a bootcamp with CodeSpace to level up my skills and dive deeper into JavaScript and modern web development techniques.
+
+I love building projects that push my creativity and problem-solving skills while focusing on delivering intuitive, engaging user experiences. Whether it's experimenting with new frameworks, fine-tuning my CSS, or perfecting a JavaScript function, I’m always looking to improve and learn something new.
 
 ### 🚀 Currently Learning:
 - Advanced JavaScript concepts
@@ -16,7 +18,5 @@ I'm a passionate front-end web developer with a focus on building sleek, modern 
   ## 📞 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/aaron-alcala-harkness-0b14bb154/)
 - [Email](mailto:alca0004@gmail.com)
-
-Feel free to reach out for collaborations or freelance opportunities!
 
 Feel free to explore my repositories and let me know if you'd like to collaborate on something cool! :)
