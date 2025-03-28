@@ -4,6 +4,10 @@ I'm a front-end web developer with a passion for creating clean, minimalist webs
 
 I love building projects that push my creativity and problem-solving skills while focusing on delivering intuitive, engaging user experiences. Whether it's experimenting with new frameworks, fine-tuning my CSS, or perfecting a JavaScript function, I’m always looking to improve and learn something new.
 
+### 🚀 Check out my portfolio
+
+https://aaronalcalah.netlify.app/
+
 ### 🚀 Currently Learning:
 - Advanced JavaScript concepts
 - DOM Manipulation
